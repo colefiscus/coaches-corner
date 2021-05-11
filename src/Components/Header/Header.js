@@ -3,9 +3,9 @@ import './Header.css';
 
 const Header = () => {
   return (
-    <header class='header'>
+    <header className='header'>
       <h1>Coach's Corner</h1>
-      <section class='header-buttons'>
+      <section className='header-buttons'>
         <button>
           Profile
         </button>

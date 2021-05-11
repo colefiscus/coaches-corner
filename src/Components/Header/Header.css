@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.header-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 1%;
+}

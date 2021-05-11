@@ -5,12 +5,14 @@ const Header = () => {
   return (
     <header class='header'>
       <h1>Coach's Corner</h1>
-      <button>
-        Profile
-      </button>
-      <button>
-        Logout
-      </button>
+      <section class='header-buttons'>
+        <button>
+          Profile
+        </button>
+        <button>
+          Logout
+        </button>
+      </section>
     </header>
   )
 }
